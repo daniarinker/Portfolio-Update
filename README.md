@@ -1,15 +1,7 @@
-<<<<<<< HEAD
-
-<div align="center" id="top"> 
-  <img src="./.github/app.gif" alt="Portfolio HTML CSS" />
-=======
 # Portfolio Update
+
 <hr>
->>>>>>> 09ba9b6b36dbcedbc3394a08ba8187cd190154ab
 
-&#xa0;
-
-  <!-- <a href="https://portfoliohtmlcss.netlify.app">Demo</a> -->
 </div>
 
 <h1 align="center">Portfolio - Dania Rinker</h1>
