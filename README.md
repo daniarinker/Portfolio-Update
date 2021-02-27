@@ -1,7 +1,3 @@
-# Portfolio Update
-
-<hr>
-
 </div>
 
 <h1 align="center">Portfolio - Dania Rinker</h1>
